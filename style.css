@@ -52,9 +52,9 @@ body{
 }
 
 .search button img{
-
+    
     width: 16px;
-
+    
 }
 
 .weather-icon{
@@ -78,14 +78,14 @@ body{
     justify-content: space-between;
     padding: 0 20px;
     margin-top: 50px;
-
+    
 }
 
 .col{
     display: flex;
     align-items: center;
     text-align: left;
-
+    
 }
 .col img{
     width: 40px;
@@ -107,4 +107,11 @@ body{
     font-size: 14px;
     margin-top: 10px;
     display: none;
+}
+
+.card h1 span{
+    color: rgb(5, 126, 94);
+    margin-right: 25%;
+    font-size: 20px;
+    font-weight: 700;
 }
